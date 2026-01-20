@@ -4,9 +4,9 @@
 Собирает данные о штанах: название, цена, наличие.
 
 ## Стек
- *Python 3.10
- *requests
- *BeautifulSoup
+ * Python 3.10
+ * requests
+ * BeautifulSoup
 
 ## Возможности
 - Парсинг списка товаров
